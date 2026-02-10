@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HousingSociety.Application/HousingSociety.Application.csproj" />
+  <Project Path="HousingSociety.Contracts/HousingSociety.Contracts.csproj" />
+  <Project Path="HousingSociety.Domain/HousingSociety.Domain.csproj" />
+  <Project Path="HousingSociety.Infrastructure/HousingSociety.Infrastructure.csproj" />
+  <Project Path="HousingSociety/HousingSociety.csproj" />
+</Solution>
